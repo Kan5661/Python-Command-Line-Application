@@ -1,6 +1,6 @@
 # Python note taker
 
-## Technologies used: Python, Peewee, and Postgresql
+## Technologies used: Python, Peewee, Tkinter, and Postgresql
 
 ## functionalties
 - find note by heading (top input box)
